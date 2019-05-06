@@ -29,3 +29,6 @@ This file was created by [Caleb Crumley](https://github.com/crumleyc), in the Di
 
 ### Licensing 
 Look at the [License](../../LICENSE)
+
+### Future additions:
+* This list is also a future addition.
